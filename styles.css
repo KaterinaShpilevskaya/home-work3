@@ -73,39 +73,3 @@ a:hover {
     border-radius: 10px;
     border: none;
 }
-
-a {
-    text-decoration: none;
-    
-}
-
-
-a:hover {
-    color: yellowgreen;
-}
-
-.inputEmail,
-.inputPassword,
-.textareaMessage
-{
-    padding: 10px;
-    margin: 10px 0;
-    border-radius: 10px;
-    border: 0;
-    background-color: rgb(189, 239, 197);
-}
-
-.button:hover {
-    background-color: rgb(119, 182, 119);
-}
-
-.button {
-    padding: 5px;
-    margin: 5px 0;
-    background-color: rgb(210, 233, 243);
-    border-radius: 10px;
-    border: none;
-}
-
-
-
