@@ -4,8 +4,12 @@
 }
 
 body {
-    margin: 0;
+    display: block;
+    width: 900px;
+    margin: 10px auto;
+    padding: 10px 10px 10px;
     font-family: 'Noto Sans', sans-serif;
+    border: 1px solid black;
     color: blanchedalmond;
     background-image: url(https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
 }
@@ -73,6 +77,5 @@ a:hover {
     border-radius: 10px;
     border: none;
 }
-
 
 
