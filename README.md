@@ -32,5 +32,8 @@ What done:
 4. unordered list
 5. place to enter a message
 6. input with radio type
+7. inserted picture using background-color
+8. added a new block with display:inline-block elements
+9. made the text in the button centered with line-height
 
   
